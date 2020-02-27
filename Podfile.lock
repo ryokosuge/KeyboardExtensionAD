@@ -1,0 +1,16 @@
+PODS:
+  - FluctSDK (6.2.1)
+
+DEPENDENCIES:
+  - FluctSDK
+
+SPEC REPOS:
+  https://cdn.cocoapods.org/:
+    - FluctSDK
+
+SPEC CHECKSUMS:
+  FluctSDK: 8d1abc3aa2e01ee8ed8d1d418080f0981735e0bb
+
+PODFILE CHECKSUM: bdf6753ebf7514c8f0a2524be4970661a90d22e9
+
+COCOAPODS: 1.9.0
